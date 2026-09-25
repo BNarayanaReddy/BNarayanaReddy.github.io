@@ -14,4 +14,4 @@ No private Nyquist source, credentials, unpublished materials or draft resume ar
 
 ## Publication assets
 
-`real-time-offline-speaker-diarization-paper.pdf` is the 5-page camera-ready draft from Drive; `cicn-2025-presentation.pdf` is the 34-page final presentation PDF. The site links these local copies and the official DOI. Both PDFs include coauthor names and affiliations already in the paper. The paper is the author-accepted manuscript; its DOI citation and IEEE copyright notice are displayed beside the paper link on the site, per IEEE author-posting policy.
+The site's paper and slide links point to the author's public-viewable Google Drive copies. No PDFs are stored in this repository. The paper is the 5-page camera-ready author manuscript; its DOI citation and IEEE copyright notice are displayed beside the link. The presentation is the 34-page final slide PDF.
